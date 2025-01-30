@@ -30,18 +30,6 @@ pip install numpy matplotlib hmmfunc
 └── README.md    # Project documentation
 ```
 
-## 🚀 Usage
-Run the Jupyter Notebook to train the model:
-
-```sh
-jupyter notebook main.ipynb
-```
-
-Or, execute the script directly:
-
-```sh
-python scripts/train_model.py
-```
 
 ## 🔍 Results & Analysis
 - The model is trained using HMMs for speech recognition.
